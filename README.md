@@ -1,4 +1,4 @@
-# Postcss Yeoman Generator
+# Postcss Yeoman Generator [![Build Status](https://travis-ci.org/Remeic/generator-postcss.svg?branch=master)](https://travis-ci.org/Remeic/generator-postcss)
 
 > [Yeoman](http://yeoman.io) generator for Postcss projects
 
