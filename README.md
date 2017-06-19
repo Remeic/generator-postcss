@@ -15,12 +15,11 @@ If you don't have [Yeoman](http://yeoman.io/) installed:
 npm install -g yo
 ```
 
-#### In this moment the only way to install postcss generator is by cloning from github, it will be available soon with npm
+#### Install generator with npm or yarn
 
 ```bash
-git clone https://github.com/Remeic/generator-postcss.git
-cd generator-postcss
-npm link
+npm i generator-postcss-projects
+yarn add generator-postcss-projects
 ```
 
 ### Usage
@@ -43,7 +42,7 @@ Beautify Css
 ```bash
 gulp css
 ```
-Wathcher
+Watcher
 ```bash
 gulp poster
 ```
@@ -58,8 +57,7 @@ gulp serve
 
 ### Contributor
 
-Thanks to [Salvatore B.](https://github.com/Owanesh) and [Andrea Stagi](https://github.com/astagi) to help me with troubleshooting. be.
- * Feel free to [learn more about Yeoman](http://yeoman.io/).
+Thanks to [Salvatore B.](https://github.com/Owanesh) and [Andrea Stagi](https://github.com/astagi) to help me with troubleshooting.
 
 ## License
 
