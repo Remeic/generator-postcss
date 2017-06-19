@@ -1,5 +1,5 @@
 {
-  "name": "generator-postcss",
+  "name": "generator-postcss-projects",
   "version": "0.5.0",
   "description": "A simple postcss yeoman generator to be immediately ready and productive!",
   "homepage": "https://github.com/Remeic/generator-postcss.git",
