@@ -15,14 +15,14 @@ var reload = browserSync.reload;
 
 /* Path */
 
-var baseDir = "production/";
+var baseDir = "./production/";
 
 /* CSS Task */
 
 /* Minify operation on Css, makes an ugly file! */
 
 gulp.task('minify-css', function() {
-    return gulp.src(baseDir + 'css/*.css')
+    return gulp.src(baseDir + 'css/styles.css')
         .pipe(sourceMaps.init())
         .pipe(postcss([
             require("postcss-import")(),
@@ -41,7 +41,7 @@ gulp.task('minify-css', function() {
 /* Main operation on Css, makes an awesome file! */
 
 gulp.task('css', function() {
-    return gulp.src(baseDir + 'css/*.css')
+    return gulp.src(baseDir + 'css/styles.css')
         .pipe(sourceMaps.init())
         .pipe(postcss([
             require("postcss-import")(),
