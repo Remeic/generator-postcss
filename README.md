@@ -1,5 +1,7 @@
 # Postcss Yeoman Generator [![Build Status](https://travis-ci.org/Remeic/generator-postcss.svg?branch=master)](https://travis-ci.org/Remeic/generator-postcss)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Remeic/generator-postcss.svg)](https://greenkeeper.io/)
+
 > [Yeoman](http://yeoman.io) generator for Postcss projects
 
 This generator makes for you production folder that contains Js, Html, Css and an awesome Gulp file ready to use for minify,beautify and live reload for browser.
