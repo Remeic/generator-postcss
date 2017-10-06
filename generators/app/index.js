@@ -70,6 +70,10 @@ module.exports = Generator.extend({
       this.templatePath('./.gitignore'),
       this.destinationPath('./.gitignore')
     );
+    this.fs.copy(
+      this.templatePath('./.npmrc'),
+      this.destinationPath('./.npmrc')
+    );
     var pkg = {
       "name": this.props.name,
       "version": "0.0.0",
