@@ -66,6 +66,10 @@ module.exports = Generator.extend({
       this.templatePath('./production'),
       this.destinationPath('./production')
     );
+    this.fs.copy(
+      this.templatePath('./.gitignore'),
+      this.destinationPath('./.gitignore')
+    );
     var pkg = {
       "name": this.props.name,
       "version": "0.0.0",
