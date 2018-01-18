@@ -26,7 +26,7 @@ yarn add generator-postcss-projects
 
 ### Usage
 ```bash
-yo postcss
+yo postcss-projects
 ```
 Drink an italian coffee and wait
 
