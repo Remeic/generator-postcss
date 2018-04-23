@@ -56,6 +56,15 @@ module.exports = Generator.extend({
     this.npmInstall(['browser-sync'], {
       'save-dev': true
     });
+    this.npmInstall(['postcss-import'], {
+      'save-dev': true
+    });
+    this.npmInstall(['precss'], {
+      'save-dev': true
+    });
+    this.npmInstall(['run-sequence'], {
+      'save-dev': true
+    });
   },
   prompting: function () {
     // Have Yeoman greet the user.

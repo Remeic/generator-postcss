@@ -21,6 +21,8 @@ npm install -g yo
 
 ```bash
 npm i generator-postcss-projects
+```
+```bash
 yarn add generator-postcss-projects
 ```
 
