@@ -35,7 +35,7 @@
     "gulp-line-ending-corrector": "^1.0.1",
     "gulp-mocha": "^4.3.1",
     "gulp-nsp": "^2.1.0",
-    "gulp-plumber": "^1.0.0",
+    "gulp-plumber": "^1.2.1",
     "mocha": "*",
     "run-sequence": "^2.2.1",
     "yeoman-assert": "^3.0.0",
