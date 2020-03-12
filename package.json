@@ -39,7 +39,7 @@
     "mocha": "*",
     "run-sequence": "^2.2.1",
     "yeoman-assert": "^3.0.0",
-    "yeoman-test": "^1.6.0"
+    "yeoman-test": "^2.3.0"
   },
   "repository": "https://github.com/Remeic/generator-postcss.git",
   "scripts": {
