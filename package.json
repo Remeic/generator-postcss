@@ -24,8 +24,8 @@
   ],
   "dependencies": {
     "chalk": "^2.1.0",
-    "yeoman-generator": "^1.0.0",
-    "yosay": "^2.0.1"
+    "yeoman-generator": "^4.12.0",
+    "yosay": "^2.0.2"
   },
   "devDependencies": {
     "gulp": "^4.0.2",
@@ -38,8 +38,8 @@
     "gulp-plumber": "^1.2.1",
     "mocha": "*",
     "run-sequence": "^2.2.1",
-    "yeoman-assert": "^3.0.0",
-    "yeoman-test": "^1.6.0"
+    "yeoman-assert": "^3.1.1",
+    "yeoman-test": "^3.0.0"
   },
   "repository": "https://github.com/Remeic/generator-postcss.git",
   "scripts": {
