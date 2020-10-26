@@ -34,15 +34,15 @@ Drink an italian coffee and wait
 
 #### What gulp file include?
 
-Minify Css
+Minify CSS
 ```bash
 gulp minify-css
 ```
-Minify Html
+Minify HTML
 ```bash
 gulp minify-html
 ```
-Beautify Css
+Beautify CSS
 ```bash
 gulp css
 ```
@@ -50,7 +50,7 @@ Watcher
 ```bash
 gulp poster
 ```
-Compile ( Include minify, beautify )
+Compile ( Include minify and beautify )
 ```bash
 gulp
 ```
